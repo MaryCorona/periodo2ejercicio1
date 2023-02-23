@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(204, 152, 235);
+}
+
+h1 {
+    color: rgb(199, 43, 147);
+    text-align: center;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+#bluetext {
+    color: blue;
+}
+
+.texto-grande {
+    font-size: 100px;
+}
+
+.color-fondo {
+    background-color: rgb(255, 255, 255);
+}
